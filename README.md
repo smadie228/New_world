@@ -16,7 +16,7 @@
 
 | Проект | Содержание |
 |---|---|
-| [Service Checker](https://github.com/smadie228/sub) | Python-проверка HTTP/TCP, тесты, L1-чек-лист и учебный Jira-тикет |
+| [Service Checker](https://github.com/smadie228/sub) | Python-проверка HTTP/TCP, тесты, L1-чек-лист, Jira REST API (read-only пример) |
 | [Linux Incident Lab](projects/linux-incident-lab/) | Linux/Bash, специально созданные сбои HTTP 503 и timeout, сценарии эскалации |
 
 ## Другие учебные проекты
