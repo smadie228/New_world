@@ -1,30 +1,32 @@
-<img src="assets/profile-banner.png" alt="A low-poly wolf overlooking a digital landscape" width="100%" />
+# Привет! Я Данил 👋
 
-# Hi, I'm smadie
+Я начинающий специалист по технической поддержке и Linux из Москвы. Ищу стажировку или Junior-позицию в технической поддержке, администрировании и сопровождении сервисов.
 
-I build dependable backend systems, Telegram products, and infrastructure вЂ” with a 3D artist's eye for detail.
+Учусь в университете «Синергия» по направлению «Информационные системы и технологии». Ранее обучался в Школе 21.
 
-Based in Kazan. Currently focused on Python services, production automation, secure integrations, and user-friendly digital products.
+## Моя техническая база
 
-## Selected work
+- Linux / Debian: терминал, SSH, процессы, права доступа, Bash
+- Python и Git: учебные скрипты и небольшие программы
+- Сети: основы TCP/IP, HTTP, DNS, DHCP
+- Поддержка: диагностика проблем, сбор логов, оформление учебных инцидентов по Jira-процессу
+- Изучаю дальше: Active Directory, мониторинг, сопровождение Linux-сервисов
 
-| Project | What it demonstrates | Stack |
-| --- | --- | --- |
-| **Mononoke** | A private production Telegram platform with subscriptions, payments, monitoring, and resilient infrastructure | Python, PostgreSQL, Redis, Docker |
-| [**Telegram Schedule Bot**](https://github.com/smadie228/telega_bot) | Class registration, reminders, admin workflows, and Google Sheets synchronization | Python, asyncio, Telegram Bot API |
-| [**cub3D**](https://github.com/smadie228/cb3d) | A Wolfenstein-style raycasting engine written from scratch | C, MiniLibX |
-| [**so_long**](https://github.com/smadie228/So_Long42) | A small tile-based game with map validation and custom graphics | C, MiniLibX |
-| [**push_swap**](https://github.com/smadie228/push_swap) | Constraint-driven stack sorting with operation optimization | C, algorithms |
+## Практические проекты для IT Support
 
-## Toolbox
+| Проект | Содержание |
+|---|---|
+| [Service Checker](https://github.com/smadie228/sub) | Python-проверка HTTP/TCP, тесты, L1-чек-лист и учебный Jira-тикет |
+| [Linux Incident Lab](projects/linux-incident-lab/) | Linux/Bash, специально созданные сбои HTTP 503 и timeout, сценарии эскалации |
 
-`Python` В· `C` В· `C++` В· `PostgreSQL` В· `Redis` В· `Docker` В· `Linux` В· `Git` В· `Telegram Bot API` В· `Blender`
+## Другие учебные проекты
 
-## What I care about
+- [Основы функционального программирования](https://github.com/smadie228/synergy-functional-programming) — университетские лабораторные
+- [push_swap](https://github.com/smadie228/push_swap) — алгоритмы и C, Школа 21
+- [cub3D](https://github.com/smadie228/cb3d) — C-проект Школы 21
 
-- turning rough ideas into reliable products;
-- keeping production systems observable and recoverable;
-- removing unnecessary complexity from user-facing flows;
-- combining engineering discipline with visual craft.
+## Моя цель
 
-<sub>Public repositories include both current work and my School 21 learning archive.</sub>
+Научиться понимать причины технических проблем, правильно диагностировать инциденты и объяснять, что было проверено. Учебные кейсы в новых репозиториях не являются реальными обращениями клиентов. Новые проекты подготовлены как учебные заготовки для запуска, изучения и самостоятельного улучшения.
+
+[Как сделать README главной страницей профиля](PROFILE_SETUP.md)
