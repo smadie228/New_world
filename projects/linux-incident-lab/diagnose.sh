@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Read-only учебная диагностика без sudo
 set -u
-PORT="$1"
+PORT="${1:-8080}"
 if ! [[ "$PORT" =~ ^[0-9]+$ ]] || (( PORT < 1 || PORT > 65535 )); then
   echo "Использование: bash diagnose.sh 8080" >&2
   exit 1
