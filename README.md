@@ -16,8 +16,8 @@
 
 | Проект | Содержание |
 |---|---|
-| [Service Checker](https://github.com/smadie228/sub) | Python-проверка HTTP/TCP, тесты, L1-чек-лист, Jira REST API (read-only пример) |
-| [Linux Incident Lab](projects/linux-incident-lab/) | Linux/Bash, специально созданные сбои HTTP 503 и timeout, сценарии эскалации |
+| [Service Checker](https://github.com/smadie228/service-checker) | Python-проверка HTTP/TCP, тесты, L1-чек-лист, Jira REST API (read-only пример) |
+| [Linux Incident Lab](https://github.com/smadie228/linux-incident-lab) | Linux/Bash, специально созданные сбои HTTP 503 и timeout, сценарии эскалации |
 
 ## Другие учебные проекты
 
@@ -29,4 +29,4 @@
 
 Научиться понимать причины технических проблем, правильно диагностировать инциденты и объяснять, что было проверено. Учебные кейсы в новых репозиториях не являются реальными обращениями клиентов. Новые проекты подготовлены как учебные заготовки для запуска, изучения и самостоятельного улучшения.
 
-[Как сделать README главной страницей профиля](PROFILE_SETUP.md)
+[Мой GitHub-профиль](https://github.com/smadie228)
